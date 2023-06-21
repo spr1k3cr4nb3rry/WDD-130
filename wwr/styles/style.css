@@ -34,8 +34,8 @@ h4 {
 
 nav a {
     text-align: center;
-    background-color: #597A94;
     color: white;
+    background-color: #597A94;
     text-decoration: none;
 }
 
@@ -89,7 +89,6 @@ nav a:hover {
 }
 
 #content {
-    display: block;
     max-width: 1600px;
     margin: 0 auto;
 }
